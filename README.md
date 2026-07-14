@@ -1,18 +1,64 @@
-# 💫 About Me:
-# Hi there 👋, I'm Unnati Mali<br><br>🎓 I'm a BCA student passionate about software development and artificial intelligence.<br><br>💻 I enjoy building AI-powered applications and full-stack web projects while continuously improving my programming skills.<br><br>🌱 Currently learning Python, Flask, React, Git, and modern AI technologies.<br><br>🚀 My goal is to create real-world projects that solve meaningful problems and contribute to open-source communities.<br>
+# 💫 About Me
 
+# Hi there 👋, I'm Unnati Mali
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/unatti_mali_09) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Unatti Mali) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Unatti Mali) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:unattimali@gmail.com) 
+🎓 BCA Student passionate about Software Development and Artificial Intelligence.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=unattimali&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=unattimali&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=unattimali&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+💻 I enjoy building AI-powered applications and full-stack web projects while continuously improving my programming skills.
+
+🌱 Currently learning Python, Flask, React, Git, and modern AI technologies.
+
+🚀 My goal is to build real-world software that solves meaningful problems and grow as an AI Software Engineer.
 
 ---
-[![](https://komarev.com/ghpvc/?username=unattimali&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Currently Working On
+
+- 🤖 JARVIS AI Assistant
+- 🌐 Full-Stack Web Development
+- 📚 Learning React & AI Technologies
+- 💡 Building real-world projects to strengthen my development skills
+
+---
+
+# 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+# 📂 Featured Projects
+
+🔹 🤖 JARVIS AI Assistant
+
+🔹 💊 MediCard (Healthcare Application)
+
+🔹 🌐 Full-Stack Web Projects
+
+🔹 📚 College Development Projects
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=unattimali&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://streak-stats.demolab.com/?user=unattimali&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=unattimali&theme=tokyonight&hide_border=true&layout=compact)
+
+---
+
+### ✨ Quote
+
+> "Learning every day. Building one project at a time."
