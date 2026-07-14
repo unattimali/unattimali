@@ -12,12 +12,13 @@
 
 ---
 
-## 🚀 Currently Working On
+## 🚀 Current Focus
 
-- 🤖 JARVIS AI Assistant
-- 🌐 Full-Stack Web Development
-- 📚 Learning React & AI Technologies
-- 💡 Building real-world projects to strengthen my development skills
+- 🤖 Building JARVIS AI Assistant
+- 🌐 Learning Full-Stack Development
+- 📚 Exploring AI & Automation
+- 🔧 Improving Git & GitHub Skills
+- 💡 Building real-world software projects
 
 ---
 
@@ -37,28 +38,30 @@
 
 ---
 
-# 📂 Featured Projects
+## 🎯 2026 Goals
 
-🔹 🤖 JARVIS AI Assistant
-
-🔹 💊 MediCard (Healthcare Application)
-
-🔹 🌐 Full-Stack Web Projects
-
-🔹 📚 College Development Projects
+- ✅ Build 10+ real-world projects
+- 🤖 Master AI application development
+- 🌐 Become a Full-Stack Developer
+- 🚀 Contribute to Open Source
+- 💼 Secure a Software Development Internship
 
 ---
 
-# 📊 GitHub Stats
+## 📚 Currently Learning
 
-![](https://github-readme-stats.shion.dev/api?username=unattimali&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://streak-stats.demolab.com/?user=unattimali&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=unattimali&theme=tokyonight&hide_border=true&layout=compact)
+- Python Development
+- Flask Framework
+- React
+- Git & GitHub
+- REST APIs
+- AI & Automation
 
 ---
 
-### ✨ Quote
+## 💡 Fun Fact
 
-> "Learning every day. Building one project at a time."
+> "I believe the best way to learn programming is by building projects, making mistakes, and improving every day."
+
+---
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and follow my learning journey.
